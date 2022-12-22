@@ -5,6 +5,6 @@ author: "Valentin"
 permalink: /about/
 ---
 
-![Me](/assets/images/me.png)
+![Me](/assets/images/me.jpg)
 
 Hi, I'm Valentin.
