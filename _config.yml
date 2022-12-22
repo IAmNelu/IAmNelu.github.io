@@ -1,13 +1,13 @@
 # Site settings
-title:          Petar Gyurov
+title:          Valentin Nelu Ifrim
 description:    "My blog"
-url:            https://petargyurov.github.io
+url:            https://iamnelu.github.io
 collections:
   projects:
 
 # Author
 author:
-  name:         Petar Gyurov
+  name:         Valentin Nelu Ifrim
 
 # Build settings
 markdown:       kramdown
@@ -24,7 +24,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
-  # - jemoji #Uncomment this to allow emoji in your post
+  - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
 permalink:      /:year-:month-:day/:title

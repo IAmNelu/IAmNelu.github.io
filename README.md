@@ -6,11 +6,11 @@ My personal blog.
 
 ## How?
 
-Built with Jekyll. Uses a slightly customised version of the [Tale theme](https://plausible.io/data-policy). Hosted using Github Pages, pointing to a custom domain.
+Built with Jekyll. Uses a slightly customized version of the [Tale theme](https://plausible.io/data-policy). Hosted using Github Pages, pointing to a custom domain.
 
 ## Where?
 
-Find it here: [petargyurov.com](https://petargyurov.com)
+Forked from here: [petargyurov.com](https://petargyurov.com)
 
 ## Do You Use Nasty Trackers?
 
